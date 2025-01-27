@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Komentáře k Medvídek	</title>
-	<atom:link href="https://petrtupec.github.io/dsmWeb/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://petrtupec.github.io/dsmWeb/</link>
+	Komentáře: !! Zkušební provoz webu !!	</title>
+	<atom:link href="https://petrtupec.github.io/dsmWeb/1781-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://petrtupec.github.io/dsmWeb/1781-2/</link>
 	<description>dětská skupina</description>
 	<lastBuildDate>Mon, 27 Jan 2025 11:02:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

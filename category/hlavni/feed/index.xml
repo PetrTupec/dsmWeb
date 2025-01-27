@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hlavní &#8211; Medvídek</title>
-	<atom:link href="/category/hlavni/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://petrtupec.github.io/dsmWeb/category/hlavni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://petrtupec.github.io/dsmWeb/</link>
 	<description>dětská skupina</description>
 	<lastBuildDate>Wed, 22 Jan 2025 22:44:17 +0000</lastBuildDate>
 	<language>cs</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Připravujeme Výtvarný den pro děti a rodiče!</title>
-		<link>/pripravujeme-vytvarny-den-pro-deti-a-rodice/</link>
-					<comments>/pripravujeme-vytvarny-den-pro-deti-a-rodice/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/pripravujeme-vytvarny-den-pro-deti-a-rodice/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/pripravujeme-vytvarny-den-pro-deti-a-rodice/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Mon, 20 Jan 2025 21:55:40 +0000</pubDate>
 				<category><![CDATA[Hlavní]]></category>
-		<guid isPermaLink="false">/?p=1470</guid>
+		<guid isPermaLink="false">https://petrtupec.github.io/dsmWeb/?p=1470</guid>
 
 					<description><![CDATA[S radostí vás zveme na Výtvarný den, který se uskuteční již [datum] v naší dětské skupině! Tento den bude plný kreativních aktivit, které budou bavit nejen děti, ale i jejich rodiče. Společně si užijeme chvíle plné tvoření, zábavy a sdílení radosti z umění. Co vás čeká? Tento den bude nejen o umění, ale i o...]]></description>
 										<content:encoded><![CDATA[
@@ -61,7 +61,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img fetchpriority="high" decoding="async" width="502" height="640" src="/wp-content/uploads/2025/01/teddy-bear-152700_640.png" alt="" class="wp-image-1312" style="width:127px;height:auto" srcset="/wp-content/uploads/2025/01/teddy-bear-152700_640.png 502w, /wp-content/uploads/2025/01/teddy-bear-152700_640-235x300.png 235w, /wp-content/uploads/2025/01/teddy-bear-152700_640-40x51.png 40w" sizes="(max-width: 502px) 100vw, 502px" /></figure></div>
+<figure class="alignleft size-full is-resized"><img fetchpriority="high" decoding="async" width="502" height="640" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2025/01/teddy-bear-152700_640.png" alt="" class="wp-image-1312" style="width:127px;height:auto" srcset="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2025/01/teddy-bear-152700_640.png 502w, https://petrtupec.github.io/dsmWeb/wp-content/uploads/2025/01/teddy-bear-152700_640-235x300.png 235w, https://petrtupec.github.io/dsmWeb/wp-content/uploads/2025/01/teddy-bear-152700_640-40x51.png 40w" sizes="(max-width: 502px) 100vw, 502px" /></figure></div>
 
 
 <h3 class="wp-block-heading">Registrace:</h3>
@@ -79,20 +79,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pripravujeme-vytvarny-den-pro-deti-a-rodice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/pripravujeme-vytvarny-den-pro-deti-a-rodice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Otevření nové dětské skupiny v našem městě!</title>
-		<link>/otevreni-nove-detske-skupiny-v-nasem-meste/</link>
-					<comments>/otevreni-nove-detske-skupiny-v-nasem-meste/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/otevreni-nove-detske-skupiny-v-nasem-meste/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/otevreni-nove-detske-skupiny-v-nasem-meste/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Mon, 20 Jan 2025 21:52:35 +0000</pubDate>
 				<category><![CDATA[Hlavní]]></category>
-		<guid isPermaLink="false">/?p=1468</guid>
+		<guid isPermaLink="false">https://petrtupec.github.io/dsmWeb/?p=1468</guid>
 
 					<description><![CDATA[S radostí vám oznamujeme otevření nové dětské skupiny v našem malém městě! Tento projekt vznikl s cílem nabídnout kvalitní péči a rozvoj pro děti ve věku od 1 do 6 let v přívětivém a bezpečném prostředí. Naše dětská skupina je ideálním místem pro všechny rodiče, kteří hledají místo, kde jejich děti mohou růst, učit se...]]></description>
 										<content:encoded><![CDATA[
@@ -129,15 +129,15 @@
 <p>Těšíme se na všechny malé objevitele, kteří se k nám připojí!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/otevreni-nove-detske-skupiny-v-nasem-meste/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/otevreni-nove-detske-skupiny-v-nasem-meste/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A real entrepreneur is somebody who has no safety net underneath them.</title>
-		<link>/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/</link>
-					<comments>/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 16:39:40 +0000</pubDate>
@@ -170,7 +170,7 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
 </div>
 
 
@@ -201,15 +201,15 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/a-real-entrepreneur-is-somebody-who-has-no-safety-net-underneath-them/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Success is the sum of small efforts, repeated day-in and day-out.</title>
-		<link>/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/</link>
-					<comments>/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 16:39:14 +0000</pubDate>
@@ -242,7 +242,7 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
 </div>
 
 
@@ -273,15 +273,15 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/success-is-the-sum-of-small-efforts-repeated-day-in-and-day-out/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I have not failed. I’ve just found 10,000 ways that won’t work.</title>
-		<link>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/</link>
-					<comments>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 16:37:24 +0000</pubDate>
@@ -314,7 +314,7 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
 </div>
 
 
@@ -345,15 +345,15 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.</title>
-		<link>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/</link>
-					<comments>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 16:37:04 +0000</pubDate>
@@ -417,15 +417,15 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/a-successful-man-is-one-who-can-lay-a-firm-foundation-with-the-bricks-others-have-thrown-at-him/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Opportunities don’t happen, you create them.</title>
-		<link>/opportunities-dont-happen-you-create-them/</link>
-					<comments>/opportunities-dont-happen-you-create-them/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/opportunities-dont-happen-you-create-them/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/opportunities-dont-happen-you-create-them/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 16:36:49 +0000</pubDate>
@@ -458,7 +458,7 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
 </div>
 
 
@@ -489,15 +489,15 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/opportunities-dont-happen-you-create-them/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/opportunities-dont-happen-you-create-them/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>You don’t have to be great to start, but you have to start to be great.</title>
-		<link>/779-2/</link>
-					<comments>/779-2/#respond</comments>
+		<link>https://petrtupec.github.io/dsmWeb/779-2/</link>
+					<comments>https://petrtupec.github.io/dsmWeb/779-2/#respond</comments>
 		
 		<dc:creator><![CDATA[medvidek]]></dc:creator>
 		<pubDate>Thu, 10 Dec 2020 15:43:30 +0000</pubDate>
@@ -530,7 +530,7 @@
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://petrtupec.github.io/dsmWeb/wp-content/uploads/2021/01/screen_002b.png" alt="" class="wp-image-1203"/></figure></div>
 </div>
 
 
@@ -561,7 +561,7 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/779-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://petrtupec.github.io/dsmWeb/779-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
